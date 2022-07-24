@@ -1,0 +1,251 @@
+
+body
+{
+  font-family : "Montserrat";
+}
+
+
+
+#title
+{
+  background-color: #FF0063;
+  font-family: 'Montserrat', cursive;
+}
+
+
+/* .main-title:hover   NOT WORKING
+{
+  color: #66BFBF;
+} */
+
+/* title:hover          Still NOT WORKING
+{
+  color: #66BFBF;
+} */
+
+h1
+{
+  font-family: "Montserrat-Black";
+  color: #fff;
+  font-size: 3.1rem;
+  line-height: 1.5;
+  margin-top: 3%;
+}
+
+h2
+{
+  font-size: 2rem;
+  color: #000
+}
+
+h3
+{
+  color: black;
+  font-size: 1.25rem;
+}
+
+p
+{
+  color: black;
+  font-size: 0.85rem;
+  text-align: center;
+  padding: 0;
+}
+
+
+
+
+#features
+{
+  text-align: center;
+  background-color: #B9F8D3;
+}
+
+.ftcont
+{
+  padding: 100px 200px;
+  position: relative;
+}
+
+
+.item
+{
+  color: #FF4848;
+  padding-bottom: 20px;
+}
+
+.item:hover
+{
+  color: #FF0000;
+}
+
+
+
+
+.nav-link
+{
+  margin: 7px;
+  color: #B9F8D3;
+}
+
+.title-image
+{
+  width: 50%;
+  transform: rotate(10deg);
+  position: rekative;
+}
+
+.downloadbtn
+{
+  margin: 5% 2% 0 0;
+}
+
+.container-fluid
+{
+  padding: 3% 10%;
+}
+
+
+#testimonials
+{
+  padding: 5% 10% 0 10% ;
+  background-color: #FF0063;
+  text-align: center;
+}
+
+.testimonial-text
+{
+  color: white;
+}
+
+#press
+{
+  background-color: #FF0063;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 3%;
+}
+.dogpic
+{
+  border-radius: 100%;
+  width: 100px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.ladypic
+{
+  border-radius: 100%;
+  width: 100px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.presspic
+{
+  width: 220px;
+}
+
+.carousel-item
+{
+  padding: 7% 20%;
+}
+
+#pricing
+{
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #00D7FF;
+  fo
+}
+
+.doghead
+{
+  font-size: 2.2rem;
+}
+
+.prp
+{
+  font-size: 1rem;
+  margin-top: 30px;
+}
+
+.pricingbtn
+{
+  margin-top: 10px;
+}
+
+.carditem
+{
+  margin: 0 ;
+}
+
+.card-header
+{
+  background-color: #66BFBF;
+}
+
+
+#cta
+{
+  text-align: center;
+  background: #FF0063;
+  padding: 20px;
+}
+
+#footer
+{
+  padding: 5px 0;
+  padding-top: 0;
+  background: #FF0063;
+}
+
+.footertxt
+{
+  color: white;
+}
+
+@media (max-width:992px)
+{
+  .title-image
+  {
+    width: 50%;
+    transform: rotate(0);
+  }
+  #title
+  {
+    text-align: center;
+  }
+}
+
+
+.bottom-container
+{
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+
+.footer-link
+{
+  padding: 10px;
+  text-decoration: none;
+  font-family: 'Nunito', sans-serif;
+  color: #F1F1F1;
+}
+
+.footer-link:hover
+{
+  color: #3CCF4E;
+}
+
+.exc
+{
+  font-size: 0.5rem;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+
+/* link vs a  */
+/* margin vs padding */
